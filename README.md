@@ -1,6 +1,7 @@
 Jogo 2sem Python
 
 Instale o Python 3, o ambiente de desenvolvimento (recomendado PyCharm) e instale o pacote PyGame para Python3.
+
 ---------------------------------------------
 Linux:
 
@@ -22,8 +23,10 @@ Faca update da lista de softwares disponiveis e instale o python3-pygame:
   
 >Etapa adicional: procure na linha 114 aonde um comentario indica a fonte usada no linux.
 substitua a linha comentada de 115 para 116.
+
 ----------------------------------------------
 Windows: Passe o mouse por cima da primeira linha em import pygame e faca o download do pacote Pygame.
+
 ----------------------------------------------
 
 Rode.
